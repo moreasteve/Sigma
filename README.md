@@ -56,20 +56,4 @@ Change Logs
 You can display all release notes with **[this link](https://gurayyarar.github.io/AdminBSBMaterialDesign/pages/changelogs.html)**
 
 
-FAQ
-===
-**Can I use this template for personal or commercial websites/web projects?**  
-Sure, you can use both of personal and commercial websites/web projects.
 
-**Is the attribution link required?**  
-No, not required. (Though very much appreciated)
-
-License
-----------
-**AdminBSB - Material Design** is an open source project that is licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-Donations
-----------
-Donations are **greatly appreciated!**
-
-**[BUY ME A COFFEE](http://bit.ly/2yEjtx5)**
